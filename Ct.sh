@@ -32,23 +32,29 @@ echo "#hacking...."
 sleep 3
 echo "IAM CyberZiC"
 sleep 3
-echo "lOADING."
-echo "LoADING.."
-echo "LOaDING..."
-echo "LOAdING...."
-echo "LOADiNG....."
-echo "LOADInG......"
-echo "LOADING......."
+echo "lOADING.1%"
 sleep 2
-echo $cy "[1]"$bi" BAJAK FB CUK.."
+echo "LoADING..20%"
+sleep 2
+echo "LOaDING...40%"
+sleep 2
+echo "LOAdING....60%"
+sleep 2
+echo "LOADiNG.....70%"
+sleep 2
+echo "LOADInG......90%"
+sleep 2
+echo "LOADING.......100%"
+sleep 2
+echo $cy "[1]"$bi" BAJAK FB BERTARGET.."
 echo "=================================================="
-echo $cy "[2]"$i" Tool Semvak"
+echo $cy "[2]"$i" Tool Troll"
 echo "=================================================="
 echo $cy "[3]"$me" Skull Project versi CZ"
 echo "=================================================="
 echo $cy "[4]"$ku" Termux Alice versi CZ"
 echo "=================================================="
-echo $cy "[5]"$pur" Spy Bot"
+echo $cy "[5]"$pur" Spy Bot (Mata-mata)"
 echo "=================================================="
 echo $cy "[6]"$pu" Jebakan Web"
 echo "=================================================="
