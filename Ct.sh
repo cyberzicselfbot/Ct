@@ -128,7 +128,7 @@ fi
 if [ $pil = 8 ]
 then
 clear
-figlet -f slant "C A B O T"|lolcat
+figlet -f slant "ZoneInCrime"|lolcat
 sleep 2
 echo $cy"Terima Kasih Sudah Pakai Tool Saya,jangan lupa subscribe"
 sleep 2
