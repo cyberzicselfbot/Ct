@@ -119,6 +119,6 @@ figlet -f slant "C A B O T"|lolcat
 sleep 2
 echo $cy"Terima Kasih Sudah Pakai Tool Saya,jangan lupa subscribe"
 sleep 2
-echo $i"kalau lupa,ku spam hp kleennnn.... :v"
+echo $i"SUPPORT ME WITH YT Channel: CyberZiC"
 exit
 fi
