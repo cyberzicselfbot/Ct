@@ -17,7 +17,7 @@ clear
 echo
 echo $cy "••••••••••••••••••••••••••••••••★"
 sleep 1
-echo $i  "★       AUTHOR   : Tn.R         ★"
+echo $i  "★       AUTHOR   : Tn.RR        ★"
 sleep 1
 echo $i  "★     YOUTUBE  : CyberZiC       ★"
 sleep 1
@@ -30,9 +30,16 @@ echo "Gunakan Dengan Bijak,Jangan sampai terinjak"
 sleep 3
 echo "#hacking...."
 sleep 3
-echo "Loading....."
+echo "IAM CyberZiC"
 sleep 3
-echo
+echo "lOADING."
+echo "LoADING.."
+echo "LOaDING..."
+echo "LOAdING...."
+echo "LOADiNG....."
+echo "LOADInG......"
+echo "LOADING......."
+sleep 2
 echo $cy "[1]"$bi" BAJAK FB CUK.."
 echo "=================================================="
 echo $cy "[2]"$i" Tool Semvak"
